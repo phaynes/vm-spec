@@ -1,6 +1,6 @@
 {
   "brand": "joyent",
-  "image_uuid":  "3dbbdcca-2eab-11e8-b925-23bf77789921",
+  "image_uuid":  "c6a275e4-c730-11e8-8c5f-9b24fe560a8f",
   "alias": "jump.local",
   "hostname": "jump.local",
   "resolvers": [
