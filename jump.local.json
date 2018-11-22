@@ -1,18 +1,19 @@
 {
   "brand": "joyent",
-  "image_uuid":  "13f711f4-499f-11e6-8ea6-2b9fb858a619",
+  "image_uuid":  "3dbbdcca-2eab-11e8-b925-23bf77789921",
   "alias": "jump.local",
   "hostname": "jump.local",
   "resolvers": [
+    "100.64.64.64",
     "8.8.8.8"
   ],
-  "ram": "4096",
+  "ram": "2046",
   "vcpus": "1",
   "quota": 300,
   "nics": [
     {
       "nic_tag": "admin",
-      "ip": "172.16.5.12",
+      "ip": "192.168.15.3",
       "netmask": "255.255.255.0",
       "gateway": "192.168.15.1"
     }
